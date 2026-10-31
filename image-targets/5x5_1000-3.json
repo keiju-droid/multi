@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 94,
+    "width": 567,
+    "height": 756,
+    "isRotated": false,
+    "originalWidth": 756,
+    "originalHeight": 756
+  },
+  "imagePath": "image-targets/5x5_1000-3_luminance.png",
+  "metadata": null,
+  "name": "5x5_1000-3",
+  "resources": {
+    "originalImage": "5x5_1000-3_original.png",
+    "croppedImage": "5x5_1000-3_cropped.png",
+    "thumbnailImage": "5x5_1000-3_thumbnail.png",
+    "luminanceImage": "5x5_1000-3_luminance.png"
+  },
+  "created": 1793418977859,
+  "updated": 1793418977859
+}
